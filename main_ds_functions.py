@@ -1,8 +1,7 @@
 # -*- coding: utf-8 -*-
 """
-Created on Mon Sep 20 21:37:21 2021
-
 @author: Roa
+
 """
 
 # import exploration files 
